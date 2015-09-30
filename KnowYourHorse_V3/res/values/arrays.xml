@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TimeZone_arrays">
+        <item >(UTC-8) Pacific Time (US and Canada)</item>
+        <item >(UTC-7) Mountain Time (US and Canada)</item>
+        <item >(UTC-6) Central Time (US and Canada)</item>
+        <item >(UTC-5) Eastern Time (US and Canada)</item>
+        <item >(UTC-4)  Atlantic Time (Canada)</item>
+        <item >(UTC-9)  Alaska (US and Canada)</item>
+        <item >(UTC-10) Hawaii (US)</item>
+        <item >(UTC-11) Midway Island, Samoa</item>
+        <item >(UTC-12) Eniwetok, Kwajalein</item>
+        <item >(UTC-3:30) Canada/Newfoundland</item>
+        
+        <item >(UTC-3) Brasilia, Buenos Aires, Georgetown</item>
+        <item >(UTC-2) Mid-Atlantic</item>
+        <item >(UTC-1) Azores, Cape Verde Is.</item>
+        <item >Greenwich Mean Time (Lisbon, London)</item>
+        <item >(UTC+1) Amsterdam, Berlin, Paris, Rome, Madrid</item>
+        <item >(UTC+2) Athens, Helsinki, Istanbul, Cairo, E. Europe</item>
+        <item >(UTC+3) Baghdad, Kuwait, Nairobi, Moscow</item>
+        <item >(UTC+3:30) Tehran</item>
+        <item >(UTC+4) Abu Dhabi, Kazan, Muscat</item>
+        <item >(UTC+4:30) Kabul</item>
+        
+        <item >(UTC+5) Islamabad, Karachi, Tashkent</item>
+        <item >(UTC+5:30) Bombay, Calcutta, New Delhi</item>
+        <item >(UTC+5:45) Nepal</item>
+        <item >(UTC+6) Almaty, Dhaka</item>
+        <item >(UTC+6:30) Cocos Islands, Yangon</item>
+        <item >(UTC+7) Bangkok, Jakarta, Hanoi</item>
+        <item >(UTC+8) Beijing, Hong Kong, Singapore, Taipei</item>
+        <item >(UTC+9) Tokyo, Osaka, Sapporto, Seoul, Yakutsk</item>
+        <item >(UTC+9:30) Adelaide, Darwin</item>
+        <item >(UTC+10) Brisbane, Melbourne, Sydney, Guam</item>
+        
+        <item >(UTC+11) Magadan, Soloman Is., New Caledonia</item>
+        <item >(UTC+12) Fiji, Kamchatka, Marshall Is., Wellington</item>
+    </string-array>
+    
+    <string-array name="TimeZoneValue_arrays">
+        <item >US/Pacific</item>
+        <item >US/Mountain</item>
+        <item >US/Central</item>
+        <item >US/Eastern</item>
+        <item >America/Halifax</item>
+        <item >America/Anchorage</item>
+        <item >Pacific/Honolulu</item>
+        <item >Pacific/Samoa</item>
+        <item >Etc/GMT-12</item>
+        <item >Canada/Newfoundland</item>
+        
+        <item >America/Buenos_Aires</item>
+        <item >Atlantic/South_Georgia</item>
+        <item >Atlantic/Azores</item>
+        <item >Europe/London</item>
+        <item >Europe/Berlin</item>
+        <item >Europe/Athens</item>
+        <item >Europe/Moscow</item>
+        <item >Iran</item>
+        <item >Asia/Dubai</item>
+        <item >Asia/Kabul</item>
+        
+        <item >Asia/Yekaterinburg</item>
+        <item >Asia/Dili</item>
+        <item >Asia/Katmandu</item>
+        <item >Asia/Omsk</item>
+        <item >India/Cocos</item>
+        <item >Asia/Krasnoyarsk</item>
+        <item >Asia/Hong_Kong</item>
+        <item >Asia/Tokyo</item>
+        <item >Australia/Adelaide</item>
+        <item >Australia/Sydney</item>
+        
+        <item >Asia/Magadan</item>
+        <item >Pacific/Auckland</item>
+    </string-array>
+    
+    
+</resources>

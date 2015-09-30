@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kyh"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/> 
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>  -->
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:name=".Vars"
+        android:allowBackup="true"
+        android:icon="@drawable/kyh_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme">
+        <!-- android:theme="@style/AppBaseTheme" -->
+        <receiver android:name=".BroadcastWifi" ></receiver>
+        
+        <activity
+            android:name="com.kyh.MainActivity"
+            android:label="@string/app_name" >
+            
+        </activity>
+        <activity android:name=".SplashAct">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainPageAct"
+            	  android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".UserMenuAct">
+            
+        </activity>
+        <activity android:name=".UserLoginAct" 
+            	  android:theme="@android:style/Theme">
+            
+        </activity>
+        <activity android:name=".UserProfileAct" 
+            	  android:windowSoftInputMode="stateAlwaysHidden">
+            <!-- android:theme="@style/TextStyle" -->
+        </activity>
+        <activity android:name=".UserSettingsMenuAct">
+            
+        </activity>
+        <activity android:name=".UserSettingsGeneralAct"
+            	  android:windowSoftInputMode="stateHidden">
+            
+        </activity>
+        <activity android:name=".HorseListAct">
+            
+        </activity>
+        <activity android:name=".HorseMenuAct">
+            
+        </activity>
+        <activity android:name=".HorseProfileAct"
+            	  android:windowSoftInputMode="stateHidden">
+            
+        </activity>
+        <activity android:name=".HorseSearchAct"
+             	  android:theme="@android:style/Theme"
+             	  android:windowSoftInputMode="stateHidden">
+            
+        </activity>
+        <activity android:name=".HorseSearchViewAct"
+            	  android:windowSoftInputMode="stateHidden">
+            
+        </activity>
+        <activity android:name=".HorsePhotosAct">
+            
+        </activity>
+        <activity android:name=".ReportCreateDocsAct">
+            
+        </activity>
+        <activity android:name=".ReportCreateAudioAct">
+            
+        </activity>
+        <activity android:name=".ReportFormFormatAct">
+            
+        </activity>
+        <activity android:name=".WebsiteAct">
+            
+        </activity>
+        <activity android:name=".PageCurlAct">
+             
+        </activity>
+        <activity android:name=".TwitterPageAct">
+            <intent-filter>
+			    <action android:name="android.intent.action.VIEW" />
+			    <category android:name="android.intent.category.DEFAULT" />
+			    <category android:name="android.intent.category.BROWSABLE" />
+			    <data android:scheme="myapp" android:host="knowyourhorse"/>
+		    </intent-filter>
+        </activity>
+        <activity android:name=".ReportViewAudioAct">
+            
+        </activity>
+        <activity android:name=".RecordPlaybackAct"
+            	  android:theme="@android:style/Theme.Translucent">
+            
+        </activity>
+        <activity android:name=".ReportViewDocsAct">
+            
+        </activity>
+        <activity android:name=".ReportViewDocsItemAct">
+            
+        </activity>
+    </application>
+
+</manifest>

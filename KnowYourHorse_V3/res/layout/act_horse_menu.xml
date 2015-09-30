@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_green"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/horse_header" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:onClick="onBack"
+            android:src="@drawable/button_back_xml" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical"
+            android:paddingTop="5dp" >
+
+            <Button
+                android:id="@+id/btnHorseProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horse_button_xml"
+                android:drawableLeft="@drawable/horse_icon_01"
+                android:gravity="left|center_vertical"
+                android:minHeight="70dp"
+                android:onClick="onHorseProfile"
+                android:paddingLeft="30dp"
+                android:text="    Horse Profile"
+                android:textColor="#fff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnPhotoAlbum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horse_button_xml"
+                android:drawableLeft="@drawable/horse_icon_02"
+                android:gravity="left|center_vertical"
+                android:minHeight="70dp"
+                android:onClick="onPhoto"
+                android:paddingLeft="30dp"
+                android:text="    Photo Album"
+                android:textColor="#ffff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnAddOwner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horse_button_xml"
+                android:drawableLeft="@drawable/horse_icon_03"
+                android:gravity="left|center_vertical"
+                android:minHeight="70dp"
+                android:onClick="onOwnerAdd"
+                android:paddingLeft="30dp"
+                android:text="    Add Owner"
+                android:textColor="#fff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnReports"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horse_button_xml"
+                android:drawableLeft="@drawable/horse_icon_04"
+                android:gravity="left|center_vertical"
+                android:minHeight="70dp"
+                android:onClick="onReports"
+                android:paddingLeft="30dp"
+                android:text="    Reports"
+                android:textColor="#fff"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnRecords"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/horse_button_xml"
+                android:drawableLeft="@drawable/horse_icon_05"
+                android:gravity="left|center_vertical"
+                android:onClick="onMedia"
+                android:paddingLeft="30dp"
+                android:text="    Audio Records"
+                android:textColor="#ffff"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="RegionLocaleSelection">
+        <item>Automatic</item>
+        <item>Afar (Djibouti)</item>
+        <item>Afar (Eritrea)</item>
+        <item>Afar (Ethiopia)</item>
+        <item>Afar</item>
+        <item>Afrikaans (Namibia)</item>
+        <item>Afrikaans (South Africa)</item>
+        <item>Afrikaans</item>
+        <item>Akan (Ghana)</item>
+        <item>Akan</item>
+        
+        <item>Amharic (Ethiopia)</item>
+        <item>Amharic</item>
+        <item>Arabic (United Arab Emirates)</item>
+        <item>Arabic (Bahrain)</item>
+        <item>Arabic (Algeria)</item>
+        <item>Arabic (Egypt)</item>
+        <item>Arabic (Iraq)</item>
+        <item>Arabic (Jordan)</item>
+        <item>Arabic (Kuwait)</item>
+        <item>Arabic (Lebanon)</item>
+        
+        <item>Arabic (Libya)</item>
+        <item>Arabic (Morocco)</item>
+        <item>Arabic (Oman)</item>
+        <item>Arabic (Qatar)</item>
+        <item>Arabic (Saudi Arabia)</item>
+        <item>Arabic (Sudan)</item>
+        <item>Arabic (Syria)</item>
+        <item>Arabic (Tunisia)</item>
+        <item>Arabic (Yemen)</item>
+        
+        <item>Assamese (India)</item>
+        <item>Assamese</item>
+        <item>Azerbaijani (Azerbaijan)</item>
+        <item>Azerbaijani</item>
+        <item>Belarusian (Belarus)</item>
+        <item>Belarusian</item>
+        <item>Bulgarian (Bulgaria)</item>
+        <item>Bulgarian</item>
+        <item>Bengali (Bangladesh)</item>
+        <item>engali (India)</item>
+        
+        <item>Bengali</item>
+        <item>Tibetan (China)</item>
+        <item>Tibetan (India)</item>
+        <item>Tibetan</item>
+        <item>Bosnian (Bosnia and Herzegovina)</item>
+        <item>Bosnian</item>
+        <item>Blin (Eritrea)</item>
+        <item>Blin</item>
+        <item>Catalan (Spain)</item>
+        <item>Catalan</item>
+        
+        <item>Atsam (Nigeria)</item>
+        <item>Atsam</item>
+        <item>Coptic</item>
+        <item>Czech (Czech Republic)</item>
+        <item>Czech</item>
+        <item>Welsh (United Kingdom)</item>
+        <item>Welsh</item>
+        <item>Danish (Denmark)</item>
+        <item>Danish</item>
+        <item>Austrian German</item>
+        
+        <item>German (Belgium)</item>
+        <item>Swiss High German</item>
+        <item>German (Germany)</item>
+        <item>German (Liechtenstein)</item>
+        <item>German (Luxembourg)</item>
+        <item>German</item>
+        <item>Divehi (Maldives)</item>
+        <item>Divehi</item>
+        <item>Dzongkha (Bhutan)</item>
+        <item>Dzongkha</item>
+        
+        <item>Ewe (Ghana)</item>
+        <item>Ewe (Togo)</item>
+        <item>Ewe</item>
+        <item>Greek (Cyprus)</item>
+        <item>Greek (Greece)</item>
+        <item>Greek</item>
+        <item>English (American Samoa)</item>
+        <item>Australian English</item>
+        <item>English (Belgium)</item>
+        <item>English (Botswana)</item>
+        
+        <item>English (Belize)</item>
+        <item>Canadian English</item>
+        <item>British English</item>
+        <item>English (Guam)</item>
+        <item>English (Hong Kong SAR China)</item>
+        <item>English (Ireland)</item>
+        <item>English (India)</item>
+        <item>English (Jamaica)</item>
+        <item>English (Marshall Islands)</item>
+        <item>English (Northern Mariana Islands)/option></item>
+        
+        <item>English (Malta)</item>
+        <item>English (Namibia)</item>
+        <item>English (New Zealand)</item>
+        <item>English (Philippines)</item>
+        <item>English (Pakistan)</item>
+        <item>English (Singapore)</item>
+        <item>English (Trinidad and Tobago)</item>
+        <item>English (U.S. Minor Outlying Islands)</item>
+        <item>U.S. English</item>
+        <item>English (U.S. Virgin Islands)</item>
+        
+        <item>English (South Africa)</item>
+        <item>English (Zimbabwe)</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Spanish (Argentina)</item>
+        <item>Spanish (Bolivia)</item>
+        <item>Spanish (Chile)</item>
+        <item>Spanish (Colombia)</item>
+        <item>Spanish (Costa Rica)</item>
+        <item>Spanish (Dominican Republic)</item>
+        
+        <item>Spanish (Ecuador)</item>
+        <item>Iberian Spanish</item>
+        <item>Spanish (Guatemala)</item>
+        <item>Spanish (Honduras)</item>
+        <item>Spanish (Mexico)</item>
+        <item>Spanish (Nicaragua)</item>
+        <item>Spanish (Panama)</item>
+        <item>Spanish (Peru)</item>
+        <item>Spanish (Puerto Rico)</item>
+        <item>Spanish (Paraguay)</item>
+        
+        <item>Spanish (El Salvador)</item>
+        <item>Spanish (United States)</item>
+        <item>Spanish (Uruguay)</item>
+        <item>Spanish (Venezuela)</item>
+        <item>Spanish</item>
+        <item>Estonian (Estonia)</item>
+        <item>Estonian</item>
+        <item>Basque (Spain)</item>
+        <item>Basque</item>
+        <item>Persian (Afghanistan)</item>
+        
+        <item>Persian (Iran)</item>
+        <item>Persian</item>
+        <item>Finnish (Finland)</item>
+        <item>Finnish</item>
+        <item>Filipino (Philippines)</item>
+        <item>Filipino</item>
+        <item>Faroese (Faroe Islands)</item>
+        <item>Faroese</item>
+        <item>French (Belgium)</item>
+        <item>Canadian French</item>
+        
+        <item>Swiss French</item>
+        <item>French (France)</item>
+        <item>French (Luxembourg)</item>
+        <item>French (Monaco)</item>
+        <item>French (Senegal)</item>
+        <item>French</item>
+        <item>Friulian (Italy)</item>
+        <item>Friulian</item>
+        <item>Irish (Ireland)</item>
+        <item>Irish</item>
+        
+        <item>Ga (Ghana)</item>
+        <item>Ga</item>
+        <item>Geez (Eritrea)</item>
+        <item>Geez (Ethiopia)</item>
+        <item>Geez</item>
+        <item>Galician (Spain)</item>
+        <item>Galician</item>
+        <item>Swiss German (Switzerland)</item>
+        <item>Swiss German</item>
+        <item>Gujarati (India)</item>
+        
+        <item>Gujarati</item>
+        <item>Manx (United Kingdom)</item>
+        <item>Manx</item>
+        <item>Hausa (Ghana)</item>
+        <item>Hausa (Niger)</item>
+        <item>Hausa (Nigeria)</item>
+        <item>Hausa (Sudan)</item>
+        <item>Hausa</item>
+        <item>Hawaiian (United States)</item>
+        <item>Irish</item>
+        
+        <item>Ga (Ghana)</item>
+        <item>Ga</item>
+        <item>Geez (Eritrea)</item>
+        <item>Geez (Ethiopia)</item>
+        <item>Geez</item>
+        <item>Galician (Spain)</item>
+        <item>Galician</item>
+        <item>Swiss German (Switzerland)</item>
+        <item>Swiss German</item>
+        <item>Gujarati (India)</item>
+        
+        <item>Gujarati</item>
+        <item>Manx (United Kingdom)</item>
+        <item>Manx</item>
+        <item>Hausa (Ghana)</item>
+        <item>Hausa (Niger)</item>
+        <item>Hausa (Nigeria)</item>
+        <item>Hausa (Sudan)</item>
+        <item>Hausa</item>
+        <item>Hawaiian (United States)</item>
+        <item>Hawaiian</item>
+        
+    </string-array>
+</resources>

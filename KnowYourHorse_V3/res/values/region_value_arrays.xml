@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="RegionLocaleValue">
+        <item>auto</item>
+        <item>aa_DJ</item>
+        <item>aa_ER</item>
+        <item>aa_ET</item>
+        <item>aa</item>
+        <item>af_NA</item>
+        <item>af_ZA</item>
+        <item>af</item>
+        <item>ak_GH</item>
+        <item>ak</item>
+        
+        <item>am_ET</item>
+        <item>am</item>
+        <item>ar_AE</item>
+        <item>ar_BH</item>
+        <item>ar_DZ</item>
+        <item>ar_EG</item>
+        <item>ar_IQ</item>
+        <item>ar_JO</item>
+        <item>ar_KW</item>
+        <item>ar_LB</item>
+        
+        <item>ar_LY</item>
+        <item>ar_MA</item>
+        <item>ar_OM</item>
+        <item>ar_QA</item>
+        <item>ar_SA</item>
+        <item>ar_SD</item>
+        <item>ar_SY</item>
+        <item>ar_TN</item>
+        <item>ar_YE</item>
+        <item>ar</item>
+        
+        <item>as_IN</item>
+        <item>as</item>
+        <item>az_AZ</item>
+        <item>az</item>
+        <item>be_BY</item>
+        <item>be</item>
+        <item>bg_BG</item>
+        <item>bg</item>
+        <item>bn_BD</item>
+        <item>bn_IN</item>
+        
+        <item>bn</item>
+        <item>bo_CN</item>
+        <item>bo_IN</item>
+        <item>bo</item>
+        <item>bs_BA</item>
+        <item>bs</item>
+        <item>byn_ER</item>
+        <item>byn</item>
+        <item>ca_ES</item>
+        <item>ca</item>
+        
+        <item>cch_NG</item>
+        <item>cch</item>
+        <item>cop</item>
+        <item>cs_CZ</item>
+        <item>cs</item>
+        <item>cy_GB</item>
+        <item>cy</item>
+        <item>da_DK</item>
+        <item>da</item>
+        <item>de_AT</item>
+        
+        <item>de_BE</item>
+        <item>de_CH</item>
+        <item>de_DE</item>
+        <item>de_LI</item>
+        <item>de_LU</item>
+        <item>de</item>
+        <item>dv_MV</item>
+        <item>dv</item>
+        <item>dz_BT</item>
+        <item>dz</item>
+        
+        <item>ee_GH</item>
+        <item>ee_TG</item>
+        <item>ee</item>
+        <item>el_CY</item>
+        <item>el_GR</item>
+        <item>el</item>
+        <item>en_AS</item>
+        <item>en_AU</item>
+        <item>en_BE</item>
+        <item>en_BW</item>
+        
+        <item>en_BZ</item>
+        <item>en_CA</item>
+        <item>en_GB</item>
+        <item>en_GU</item>
+        <item>en_HK</item>
+        <item>en_IE</item>
+        <item>en_IN</item>
+        <item>en_JM</item>
+        <item>en_MH</item>
+        <item>en_MP</item>
+        
+        <item>en_MT</item>
+        <item>en_NA</item>
+        <item>en_NZ</item>
+        <item>en_PH</item>
+        <item>en_PK</item>
+        <item>en_SG</item>
+        <item>en_TT</item>
+        <item>en_UM</item>
+        <item>en_US</item>
+        <item>en_VI</item>
+        
+        <item>en_ZA</item>
+        <item>en_ZW</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>es_AR</item>
+        <item>es_BO</item>
+        <item>es_CL</item>
+        <item>es_CO</item>
+        <item>es_CR</item>
+        <item>es_DO</item>
+        
+        <item>es_EC</item>
+        <item>es_ES</item>
+        <item>es_GT</item>
+        <item>es_HN</item>
+        <item>es_MX</item>
+        <item>es_NI</item>
+        <item>es_PA</item>
+        <item>es_PE</item>
+        <item>es_PR</item>
+        <item>es_PY</item>
+        
+        <item>es_SV</item>
+        <item>es_US</item>
+        <item>es_UY</item>
+        <item>es_VE</item>
+        <item>es</item>
+        <item>et_EE</item>
+        <item>et</item>
+        <item>eu_ES</item>
+        <item>eu</item>
+        <item>fa_AF</item>
+        
+        <item>fa_IR</item>
+        <item>fa</item>
+        <item>fi_FI</item>
+        <item>fi</item>
+        <item>fil_PH</item>
+        <item>fil</item>
+        <item>fo_FO</item>
+        <item>fo</item>
+        <item>fr_BE</item>
+        <item>fr_CA</item>
+        
+        <item>fr_CH</item>
+        <item>fr_FR</item>
+        <item>fr_LU</item>
+        <item>fr_MC</item>
+        <item>fr_SN</item>
+        <item>fr</item>
+        <item>fur_IT</item>
+        <item>fur</item>
+        <item>ga_IE</item>
+        <item>ga</item>
+        
+        <item>gaa_GH</item>
+        <item>gaa</item>
+        <item>gez_ER</item>
+        <item>gez_ET</item>
+        <item>gez</item>
+        <item>gl_ES</item>
+        <item>gl</item>
+        <item>gsw_CH</item>
+        <item>gsw</item>
+        <item>gu_IN</item>
+        
+        <item>gu</item>
+        <item>gv_GB</item>
+        <item>gv</item>
+        <item>ha_GH</item>
+        <item>ha_NE</item>
+        <item>ha_NG</item>
+        <item>ha_SD</item>
+        <item>ha</item>
+        <item>haw_US</item>
+        <item>haw</item>
+        
+    </string-array>
+</resources>
